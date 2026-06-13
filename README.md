@@ -1,7 +1,7 @@
 # Problems-on-Multimap
-Name: Mahadi Hasan Pranto
-Roll: 2407085
-University: KUET
+# Name: Mahadi Hasan Pranto
+# Roll: 2407085
+# University: KUET
 
 This repository contains C++ solutions on Multimap Problem:
 
